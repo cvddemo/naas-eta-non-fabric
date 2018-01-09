@@ -37,7 +37,11 @@ ETA extracts three main data elements: the initial data packet, the
 sequence of packet length and times, and TLS-specific features.
 
 .. note::
-    For more information about Encrypted Traffic Analytics, see the complete.
+
+    For more information about Encrypted Traffic Analytics, see the complete `ETA
+Whitepaper <https://www.cisco.com/c/dam/en/us/solutions/collateral/enterprise-networks/enterprise-network-security/nb-09-encrytd-traf-anlytcs-wp-cte-en.pdf>`__.
+
+`Link text <http://example.com/>`_ 
 
 Design Overview
 ============
