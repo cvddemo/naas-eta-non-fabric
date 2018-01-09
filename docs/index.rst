@@ -42,7 +42,6 @@ sequence of packet length and times, and TLS-specific features.
     see the complete 
     `ETA Whitepaper <https://www.cisco.com/c/dam/en/us/solutions/collateral/enterprise-networks/enterprise-network-security/nb-09-encrytd-traf-anlytcs-wp-cte-en.pdf>`_.
 
-`Link text <http://example.com/>`_ 
 
 Design Overview
 ============
@@ -72,10 +71,10 @@ as well as malware detection of TLS or SSL encrypted traffic.
 
 .. note::
 
-As of IOS-XE 16.6.2, the Cisco 1100 router also supports ETA; however, it was not tested for inclusion in this CVD.
+    As of IOS-XE 16.6.2, the Cisco 1100 router also supports ETA; however, it was not tested for inclusion in this CVD.
 
-#. Flexible NetFlow and ETA
-
+Flexible NetFlow and ETA
+-
 Although it is possible to just configure ETA, it is necessary to also
 configure FNF for analysis of encrypted traffic in the Cognitive Threat
 Analytics cloud for malware detection as ETA only sends information
